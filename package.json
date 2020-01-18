@@ -1,0 +1,23 @@
+{
+  "name": "vueblog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs",
+    "deploy": "zsh deploy.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liuuky/vueblog.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liuuky/vueblog/issues"
+  },
+  "homepage": "https://github.com/liuuky/vueblog#readme"
+}
