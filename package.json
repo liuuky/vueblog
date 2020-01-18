@@ -19,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/liuuky/vueblog/issues"
   },
-  "homepage": "https://github.com/liuuky/vueblog#readme"
+  "homepage": "https://github.com/liuuky/vueblog#readme",
+  "devDependencies": {
+    "@vuepress/plugin-pwa": "^1.2.0",
+    "vuepress": "^1.0.0-rc.1"
+  }
 }
