@@ -2,7 +2,7 @@
 
 [参考链接](https://segmentfault.com/a/1190000006879700)
 
-![输入URL后](../img/输入URL后.png)
+![URL](../img/URL.png)
 
  - 判断是否需要跳转(301)
  - 从浏览器中读取缓存
