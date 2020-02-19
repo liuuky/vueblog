@@ -1,4 +1,4 @@
-# 事件轮询
+# Node事件轮询
 
 原文链接： [浏览器与Node的事件循环(Event Loop)有何区别?](https://github.com/ljianshu/Blog/issues/54)
 
