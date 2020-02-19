@@ -1,7 +1,7 @@
 ## axios中qs的使用
 #### 首先qs是一个npm仓库所管理的包,可通过npm install qs命令进行安装.
 #### 地址: https://www.npmjs.com/package/qs
-## `qs.parse()`<Badge text="important"/>、`qs.stringify()`<Badge text="important"/>
+#### `qs.parse()`<Badge text="@"/>、`qs.stringify()`<Badge text="@"/>
 
 ### `qs.parse()`将URL解析成对象的形式
 ```js
