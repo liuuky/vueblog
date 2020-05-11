@@ -1,4 +1,6 @@
-# nginx代理
+# Nginx
+
+## Nginx代理
 
 ### nginx基本代理
 ```
