@@ -1,0 +1,13 @@
+{
+  "name": "技术路漫漫且修远，吾将上下而求索.",
+  "short_name": "Nayek",
+  "description": "Nayek的博客，Vuepress文档",
+  "icons": [{
+    "src": "/logo.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }],
+  "background_color": "#2196f3",
+  "display": "standalone",
+  "start_url": "index.html"
+}
